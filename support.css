@@ -1,0 +1,79 @@
+.center {
+    font-family: Arial;
+}
+h1 {
+    text-align: center;
+    color: grey;
+    font-size: 25px;
+    line-height: 1px;
+}
+label {
+    padding: 1%;
+    font-size: 21px;
+}
+.one {
+    border: solid rgb(7, 201, 205);
+    margin-bottom: 28px;
+}
+input {
+    font-size: 22px;
+    padding: 8px;
+    height: 22px;
+    margin: 10px 1%;
+    width: 90%;
+    border: 3px solid grey;
+}
+.login {
+    width: 92%;
+    height: 40px;
+    margin: 15px 3%;
+    font-size: 15px;
+    font-weight: 600;
+    color: #fff;
+    background-color: rgb(58, 149, 247);
+}
+.password {
+    text-decoration: none;
+    font-size: 20px;
+    margin-top: 20px;
+    line-height: 40px;
+}
+.wan, .two {
+    width: 35%;
+}
+.wan {
+    margin-top: 40px;
+    margin-left: 5%;
+}
+h4 {
+    margin-left: 47%;
+    margin-top: -15px;
+}
+.two {
+    margin-right: 7%;
+    margin-top: -35px;
+    margin-bottom: 5%;
+}
+.new {
+    width: 70%;
+    height: 40px;
+    margin: 20px 16%;
+    font-size: 15px;
+    font-weight: 600;
+    color: #fff;
+    background-color: rgb(12, 161, 12);
+}
+h2 {
+    font-family: arial;
+    font-size: 20px;
+    font-weight: 100;
+    padding: 5px;
+}
+.langauges {
+    text-decoration: none;
+    font-family: arial;
+    font-size: 19px;
+}
+@media only screen and (min-width: 576px) {
+
+}
